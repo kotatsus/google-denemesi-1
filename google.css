@@ -1,0 +1,102 @@
+
+.search{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 200px; 
+}
+
+
+
+.box{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 200px; 
+}
+.boxs{ 
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 200px; 
+    right: 650px;
+  }
+    
+
+.topnav {
+    overflow: visible;
+    background-color: #e9e9e9;
+  
+  
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;    
+    margin-right: 16px;
+    font-size: 17px;
+  }
+  
+
+
+.container1{
+    border-radius: 15px; 
+width: 100px;
+height: 110px;
+background-color: rgb(6, 151, 229);
+float: left;
+padding: 20px;
+margin-left: 570px;
+position: relative;
+top: 250px; 
+left: 5px;
+
+ 
+
+} 
+
+.container2{
+    width: 100px;
+    height: 110px;
+    background-color: rgb(6, 151, 229);
+    float: left;
+    padding: 20px;
+    border-radius: 15px; 
+    position: relative;
+    top: 250px; 
+    left: 15px;
+    
+    } 
+
+    .container3{
+        width: 100px;
+        height: 110px;
+        background-color: rgb(6, 151, 229);
+        float: left;
+        padding: 20px;
+        border-radius: 15px; 
+        position: relative;
+        top: 250px; 
+        left: 25px;
+        
+        
+    } 
+
+  
+  
